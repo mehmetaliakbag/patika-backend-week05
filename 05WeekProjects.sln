@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Array", "01Array\01Array.csproj", "{0A6B771E-94CB-44B9-B8BA-F4DCBFA180B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01Array", "01Array\01Array.csproj", "{0A6B771E-94CB-44B9-B8BA-F4DCBFA180B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02List1", "02List1\02List1.csproj", "{A4BEE26F-E364-425F-B289-729D4E69CB53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02List1", "02List1\02List1.csproj", "{A4BEE26F-E364-425F-B289-729D4E69CB53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03List2", "03List2\03List2.csproj", "{976ABEA8-4EBE-4AA8-95C8-49FAE36E2AE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03List2", "03List2\03List2.csproj", "{976ABEA8-4EBE-4AA8-95C8-49FAE36E2AE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04IMDBList", "04IMDBList\04IMDBList.csproj", "{E92253DB-D1EA-4F8B-8C68-0D59BC2E93C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04IMDBList", "04IMDBList\04IMDBList.csproj", "{E92253DB-D1EA-4F8B-8C68-0D59BC2E93C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05TryCatch", "05TryCatch\05TryCatch.csproj", "{14A225C8-8C24-4FCE-8131-4F25C204F773}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E92253DB-D1EA-4F8B-8C68-0D59BC2E93C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E92253DB-D1EA-4F8B-8C68-0D59BC2E93C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E92253DB-D1EA-4F8B-8C68-0D59BC2E93C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A225C8-8C24-4FCE-8131-4F25C204F773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A225C8-8C24-4FCE-8131-4F25C204F773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A225C8-8C24-4FCE-8131-4F25C204F773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A225C8-8C24-4FCE-8131-4F25C204F773}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
