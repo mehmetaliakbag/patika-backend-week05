@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03List2", "03List2\03List2.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04IMDBList", "04IMDBList\04IMDBList.csproj", "{E92253DB-D1EA-4F8B-8C68-0D59BC2E93C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05TryCatch", "05TryCatch\05TryCatch.csproj", "{14A225C8-8C24-4FCE-8131-4F25C204F773}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05TryCatch", "05TryCatch\05TryCatch.csproj", "{14A225C8-8C24-4FCE-8131-4F25C204F773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge", "Challenge\Challenge.csproj", "{B5CC9824-D6C5-40F9-AC82-699DAA48E6FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{14A225C8-8C24-4FCE-8131-4F25C204F773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14A225C8-8C24-4FCE-8131-4F25C204F773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14A225C8-8C24-4FCE-8131-4F25C204F773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CC9824-D6C5-40F9-AC82-699DAA48E6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CC9824-D6C5-40F9-AC82-699DAA48E6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CC9824-D6C5-40F9-AC82-699DAA48E6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CC9824-D6C5-40F9-AC82-699DAA48E6FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
